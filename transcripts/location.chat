@@ -1,0 +1,26 @@
+user=Sudharsan
+bot=hackbot
+
+user: Where is CS98 held?
+bot: [Herocard
+    title=LSC 200, Senior Design and Implementation
+    subtitle=Tim Tregubov, CS
+    text=Join Tim in his amazing CS98 class where he helps all of the people
+    images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/profile_square.jpg?itok=lhgXW9lp
+    buttons=Add to List|Learn More]
+
+user: Where is CS10 held?
+[AttachmentLayout=carousel]
+bot: [ThumbnailCard
+        title=Moore B03, Object-Oriented Programming
+        subtitle=Tim Pierson, CS
+        text=Object-Oriented Programming
+        images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/pierson.png?itok=jQJ1nSBu
+        buttons=Add to List|Learn More]
+    [ThumbnailCard
+        title=Carson L01, Object-Oriented Programming
+        subtitle=Tim Pierson, CS
+        text=Object-Oriented Programming
+        images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/pierson.png?itok=jQJ1nSBu
+        buttons=Add to List|Learn More]
+

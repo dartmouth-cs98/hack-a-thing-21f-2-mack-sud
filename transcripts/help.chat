@@ -1,0 +1,11 @@
+user=Sudharsan
+bot=hackbot
+
+user: help
+bot: [Suggestions=I want to know about a class|I want to know about the Dartmouth Schedule|I want to know about an event]
+
+user: I want to know about a class
+bot: You can ask:
+* _Who is teaching CS98?_
+* _Where is CS98 being taught?_
+* _What time is CS98 taught?_

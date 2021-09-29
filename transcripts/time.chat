@@ -1,0 +1,14 @@
+user=Sudharsan
+bot=hackbot
+
+user: What time is CS98?
+bot: Tim Tregubov is teaching CS98 at the 3A block on Mondays and Wednesdays.
+[Suggestions=Add to List|Learn More]
+
+user: What time is CS10?
+bot: We have a few.
+bot: Tim Pierson is teaching CS10 at the 12 block on Mondays, Wednesdays, and Fridays.
+[Suggestions=Add to List|Learn More]
+
+bot: Also, Tim Pierson is teaching CS10 at the 2 block on Mondays, Wednesdays, and Fridays.
+[Suggestions=Add to List|Learn More]
