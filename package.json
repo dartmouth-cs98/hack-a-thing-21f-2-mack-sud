@@ -1,0 +1,28 @@
+{
+  "name": "hack-a-bot",
+  "version": "1.0.0",
+  "description": "hack-a-thing bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dartmouth-cs98/hack-a-thing-21f-2-mack-sud.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Sudharsan Balasubramani and Mack Reiferson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dartmouth-cs98/hack-a-thing-21f-2-mack-sud/issues"
+  },
+  "homepage": "https://github.com/dartmouth-cs98/hack-a-thing-21f-2-mack-sud#readme",
+  "dependencies": {
+    "@types/restify": "^8.5.2",
+    "botbuilder": "^4.14.1",
+    "restify": "^8.5.1",
+    "typescript": "^4.4.3"
+  }
+}
