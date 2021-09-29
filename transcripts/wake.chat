@@ -1,0 +1,14 @@
+user=Sudharsan
+bot=hackbot
+
+user: hello
+bot: Hello! What would you like me to call you?
+
+user: Sudharsan
+bot: Hello, Sudharsan, Here are some examples I can help you with:
+* Do you know any jokes?
+* What is the capital of New Hampshire?
+* What is the world's tallest building?
+* Do you have friends?
+
+bot: Just type in whatever you need! If you get stuck, just type "help0" and I'll do what I can.

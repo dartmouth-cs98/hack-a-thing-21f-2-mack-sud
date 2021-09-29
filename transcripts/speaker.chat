@@ -1,0 +1,25 @@
+user=Sudharsan
+bot=hackbot
+
+user: Who is teaching CS98?
+bot: [Herocard
+    title=Tim Tregubov
+    subtitle=Dartmouth, Computer Science
+    text=Join Tim in his amazing CS98 class where he helps all of the people
+    images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/profile_square.jpg?itok=lhgXW9lp
+    buttons=Add to List|Learn More]
+
+user: Who is teaching CS10?
+[AttachmentLayout=carousel]
+bot: [Herocard
+        title=Tim Pierson
+        subtitle=Dartmouth, Computer Science
+        text=The objective of this class is to learn data structures and object-oriented-programming
+        images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/pierson.png?itok=jQJ1nSBu
+        buttons=Add to List|Learn More]
+    [Herocard
+        title=Chris Bailey-Kellogg
+        subtitle=Dartmouth, Computer Science
+        text=The objective of this class is to learn data structures and object-oriented-programming
+        images=https://faculty-directory.dartmouth.edu/sites/dartmouth.edu.faculty-directory/files/styles/profile_image/public/cbk_0.jpg?itok=20V3y9DE
+        buttons=Add to List|Learn More]
