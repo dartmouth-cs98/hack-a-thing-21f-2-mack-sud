@@ -3,23 +3,30 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+We attempted to build a chat bot. The bot doesn't serve any particular overarching purpose, but it does answer some cs98-related questions.
+
+We used a variety of Azure web services, including LUIS, LUDown, ChatDown, QNAMaker and Azure Bot.
 
 Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+
+[Intent and Entity Training](./images/intent.png)
+
+[Actual chat bot](./images/testbot.png)
 
 ## Who Did What?
 
-TODO: who worked on what part?
+Sud followed the first 5 videos of the tutorial, which included setting up the dev environment and setting up the basics of a chat bot.
+Mack followed the sixth video, at which point it became clear the tutorial was in part deprecated. Mack pivoted and continued implementing the bot using Microsoft's interface, rather than through the CLI/manually creating json files, etc.
 
 ## What you learned
 
-TODO: what worked / what didn't work
+We know have a much stronger understanding of what intents and entities are in NLP. Overall, this was mostly an experience in adapting tutorials when they are deprecated.
 
 ## Authors
 
-TODO: list of authors
+Sudharsan Balasubramani
+Mack Reiferson
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+[Link to tutorial](https://www.youtube.com/playlist?list=PLz6hh7iUxR22NewUgZjhQxYL7iL6lAmUM)
