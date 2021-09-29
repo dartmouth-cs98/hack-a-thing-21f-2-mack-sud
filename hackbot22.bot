@@ -1,0 +1,18 @@
+{
+    "name": "hackbot22",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "e989cdf0-20d8-11ec-a44f-adfa0547a573",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Sudha\\hack-a-bot\\hackbot22.bot",
+    "overrides": null
+}
